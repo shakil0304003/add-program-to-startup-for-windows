@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="startup program">
+</Property><Property Name="Solution File" Value="D:\Astha Project\startup program\startup program.sln">
+</Property><Property Name="User Options File" Value="D:\Astha Project\startup program\startup program.suo">
+</Property><Property Name="Date" Value="Thursday, August 05, 2010">
+</Property><Property Name="Time" Value="14:03 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="startup program.sln" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program.sln">
+</Event><Event ErrorLevel="0" Project="" Source="startup program.suo" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program.suo">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\startup program.csproj" Description="Project file successfully backed up as D:\Astha Project\startup program\Backup\startup program\startup program.csproj">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Form1.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Form1.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Form1.Designer.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Program.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Program.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Properties\Settings.settings" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Form1.resx" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Form1.resx">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\Properties\Resources.resx" Description="File successfully backed up as D:\Astha Project\startup program\Backup\startup program\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\startup program.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="startup program" Source="startup program\startup program.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="startup program.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="startup program.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="startup program" Source="startup program\startup program.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
